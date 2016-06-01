@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AndroidRecyclerViewDemo</string>
+    <!--
+
+
+
+鹤立鸡群、鸡鸣狗盗、鹬蚌相争、蚕食鲸吞、蛛丝马迹、龙争虎斗、龙马精神、龙飞凤舞、龙腾虎跃、
+龙骧虎步、龙潭虎穴、龙跃凤鸣、车水马龙、指鹿为马、兔死狐悲、鸡犬不宁、心猿意马、狼吞虎咽
+
+含有人体器官的成语
+
+眼高手低、目瞪口呆、胸无点墨、头重脚轻、手足轻深、口是心非、手疾眼快、耳闻目睹、头破血流、
+眉清目秀、袖手傍观、口出不逊、
+
+手无缚鸡之力
+
+含有昆虫名称的成语
+
+飞蛾扑火、金蝉脱壳、积蚊成雷、蟾宫折挂、蚕食鲸吞、蜻蜓点水、螳臂挡车、蛛丝马迹、
+螳螂捕蝉，黄雀在后
+
+
+-->
+    <string-array name="sports">
+        <item>万象更新</item>
+        <item>抱头鼠窜</item>
+        <item>鹬蚌相争</item>
+        <item>积蚊成雷</item>
+        <item>蟾宫折挂</item>
+        <item>蚕食鲸吞</item>
+        <item>蜻蜓点水</item>
+        <item>螳臂挡车</item>
+        <item>蛛丝马迹</item>
+        <item>黄雀在后</item>
+        <item>飞蛾扑火</item>
+        <item>没有女友</item>
+        <item>手无缚鸡</item>
+        <item>韭菜炒蛋</item>
+        <item>酸辣土豆丝</item>
+        <item>Android</item>
+        <item>目瞪口呆</item>
+        <item>头重脚轻</item>
+        <item>手足轻深</item>
+        <item>手疾眼快</item>
+        <item>耳闻目睹</item>
+        <item>眉清目秀</item>
+        <item>袖手傍观</item>
+        <item>口出不逊</item>
+    </string-array>
+</resources>
